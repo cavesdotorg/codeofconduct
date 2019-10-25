@@ -16,7 +16,7 @@ The following types of behavior are unacceptable at official NSS events, both on
 
 **Harassment—** including offensive verbal comments or physical actions related to age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation, as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual or persistent romantic attention. Harassment is defined as any of the above behaviors that results in discomfiture of one party.
 
-**Threats— **threatening someone physically or verbally.
+**Threats—** threatening someone physically or verbally.
 
 #### Unwelcoming behavior
 
