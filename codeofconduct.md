@@ -60,11 +60,10 @@ If you see a violation of our code of conduct, please report it to ________.
 Please report all code of conduct violations using our reporting form. If you would rather discuss the matter in person with _______, email _____ to schedule a time to talk. In your report, please include:
 * **Your name**This is incredibly helpful for us to be able to follow up with you, and ask questions to better understand the situation. The form allows you to report anonymously. Please only use this option if you really need to, and know that we might not be able to take action without being able to follow up for more information. In any case, provide an email address so we can correspond with you about the report. The third-party reporting tool we're using anonymizes communication, so we never see the email address you provide if you choose to submit anonymously.
 
-* **A detailed description of what happened
-**If the violation happened online, please take a screenshot and include this evidence in your report.
+* **A detailed description of what happened** If the violation happened online, please take a screenshot and include this evidence in your report.
 * **Where and when the incident happened**
-* **Any other relevant context**Do you have examples of a pattern of similar behavior from this person before? Do you have a relationship with this person outside of the NSS?
-* **If/how you've already responded**This lets us know the current state of the situation.
+* **Any other relevant context** Do you have examples of a pattern of similar behavior from this person before? Do you have a relationship with this person outside of the NSS?
+* **If/how you've already responded** This lets us know the current state of the situation.
 
 
 
